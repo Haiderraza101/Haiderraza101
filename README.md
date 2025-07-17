@@ -1,28 +1,75 @@
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
-<h3 align="center">A passionate computer Science student at FAST NUCES Lahore</h3>
+<h3 align="center">A passionate Full-Stack Developer and CS Student at FAST NUCES Lahore</h3>
 
-- 🔭 I’m currently working on **Building scalable full-stack projects with React Learning advanced React, backend integration, and database design**
+---
 
-- 🌱 I’m currently learning **React (Hooks, Context, Redux, Routing, Performance Optimization) Backend (Node.js, Express.js, APIs) Databases (MongoDB, MySQL) Deployment (Vercel) Advanced C++ Data Structures and OOP for problem-solving**
+### 👨‍🎓 About Me:
 
-- 👯 I’m looking to collaborate on **Full-stack web applications — React + Node.js + MongoDB / SQL Scalable real-world C++ or JavaScript-based tools Open to project ideas that improve real-life workflows or solve practical problems**
+🎓 I'm currently studying Computer Science at FAST NUCES Lahore  
+🧠 I enjoy building full-stack applications and continuously improving my problem-solving and software design skills  
 
-- 🤝 I’m looking for help with **Best practices in full-stack architecture**
+---
 
-- 👨‍💻 All of my projects are available at [https://haiderraza-portfolio.netlify.app/](https://haiderraza-portfolio.netlify.app/)
+### 🌐 Socials:
 
-- 💬 Ask me about **C++ OOP, STL, and data structures Getting started with full-stack development React basics and making interactive UIs How to structure learning as a CS student**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/haiderraza101)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://instagram.com/haiderraza101)  
 
-- 📫 How to reach me **haiderraza7516@gmail.com**
+---
 
-- ⚡ Fun fact **Music is my go-to for inspiration and creativity!**
+### 💻 Tech Stack:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haiderraza101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haiderraza101" height="30" width="40" /></a>
-<a href="https://fb.com/haider raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haider raza" height="30" width="40" /></a>
-<a href="https://instagram.com/haiderraza101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haiderraza101" height="30" width="40" /></a>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats:
+
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderraza101&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderraza101&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Projects
+
+- [🧠 Social-Network-Application (C++)](https://github.com/Haiderraza101/Social-Network-Application)  
+  A C++ social network app built using OOP principles including classes, inheritance, polymorphism, and encapsulation.
+
+- [🎮 12-Bead-Game (C++ with SFML)](https://github.com/Haiderraza101/12-Bead-Game---C-Project)  
+  A graphical implementation of the 12 Bead Game using SFML, showcasing key programming fundamentals and simple OOP.
+
+- [💊 MediConnect (Private)](https://github.com/Haiderraza101/mediconnect)  
+  A full-stack healthcare appointment & record system using React, Node.js, and MySQL (repo is private).
+
+- [🧾 Task Manager App (Full Stack)](https://github.com/Haiderraza101/task-manager-app)  
+  A full-stack project with React.js frontend and Express + MySQL backend demonstrating CRUD operations and JWT auth.
+
+- [📄 Notepad Console App in C++](https://github.com/Haiderraza101/notepad-cpp)  
+  A console-based text editor written in C++ demonstrating file handling, pointers, and OOP.
+
+---
+
+### 🌍 Portfolio
+
+[🔗 View My Portfolio Website](https://haiderraza-portfolio.netlify.app/)
+
+---
+
+### 📫 Contact Me
+
+📧 Email: [haiderraza7516@gmail.com](mailto:haiderraza7516@gmail.com)
+
+---
+
+> ⚠️ All projects are developed by Haider Raza for educational and portfolio purposes. Unauthorized use is prohibited.
