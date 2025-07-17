@@ -52,12 +52,6 @@
 - [💊 MediConnect (Private)](https://github.com/Haiderraza101/mediconnect)  
   A full-stack healthcare appointment & record system using React, Node.js, and MySQL (repo is private).
 
-- [🧾 Task Manager App (Full Stack)](https://github.com/Haiderraza101/task-manager-app)  
-  A full-stack project with React.js frontend and Express + MySQL backend demonstrating CRUD operations and JWT auth.
-
-- [📄 Notepad Console App in C++](https://github.com/Haiderraza101/notepad-cpp)  
-  A console-based text editor written in C++ demonstrating file handling, pointers, and OOP.
-
 ---
 
 ### 🌍 Portfolio
