@@ -41,18 +41,7 @@
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderraza101&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderraza101&layout=compact&theme=tokyonight)
 
----
-
-### 🚀 Projects
-
-- [🧠 Social-Network-Application (C++)](https://github.com/Haiderraza101/Social-Network-Application)  
-  A C++ social network app built using OOP principles including classes, inheritance, polymorphism, and encapsulation.
-
-- [🎮 12-Bead-Game (C++ with SFML)](https://github.com/Haiderraza101/12-Bead-Game---C-Project)  
-  A graphical implementation of the 12 Bead Game using SFML, showcasing key programming fundamentals and simple OOP.
-
-- [💊 MediConnect (Private)](https://github.com/Haiderraza101/mediconnect)  
-  A full-stack healthcare appointment & record system using React, Node.js, and MySQL (repo is private).
+-
 
 ---
 
