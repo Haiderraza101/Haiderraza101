@@ -41,8 +41,6 @@
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderraza101&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haiderraza101&layout=compact&theme=tokyonight)
 
--
-
 ---
 
 ### 🌍 Portfolio
